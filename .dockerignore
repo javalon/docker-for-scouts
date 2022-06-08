@@ -1,0 +1,12 @@
+node_modules/
+
+*.md
+
+Dockerfile
+.env
+
+build
+dist
+
+.vscode
+.ebextensions
